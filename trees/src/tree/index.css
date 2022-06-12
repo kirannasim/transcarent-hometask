@@ -1,0 +1,24 @@
+.tree {
+  background-color: #efefef;
+  height: 100%;
+  padding: 10px;
+  font-family: monospace;
+}
+
+ul {
+  list-style-type: none;
+}
+
+div > ul {
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.delete--btn {
+  cursor: pointer;
+}
+
+/* ul {
+  display: flex;
+  flex-direction: column-reverse;
+} */

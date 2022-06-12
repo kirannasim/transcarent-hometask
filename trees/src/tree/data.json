@@ -1,0 +1,25 @@
+[
+  {
+    "node": "root",
+    "children": [
+      {
+        "node": "ant",
+        "children": []
+      },
+      {
+        "node": "bear",
+        "children": [
+          { "node": "cat", "children": [] },
+          {
+            "node": "dog",
+            "children": [{ "node": "elephant", "children": [] }]
+          }
+        ]
+      },
+      {
+        "node": "frog",
+        "children": []
+      }
+    ]
+  }
+]
